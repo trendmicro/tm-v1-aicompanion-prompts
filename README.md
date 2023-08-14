@@ -14,3 +14,17 @@ Just like a calculator aids students, scientists, and statistical analysts in pe
 ## Documentation
 
 Documentation will be updated upon release.
+
+## Contributing
+
+### Code of Conduct
+
+Trend Micro has adopted a [Code of Conduct](CODE_OF_CONDUCT.md) that we expect project participants to adhere to. Please read the [full text](CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
+
+### Contributing Guide
+
+Read our [contributing guide](CONTRIBUTING.md) to learn about our development process, how to propose bugfixes and improvements, and how to build and test your changes to Trend Vision One.
+
+### Development
+
+If you want to actively help Trend Vision One by creating connectors, we created [dedicated documentation](https://docs.trendmicro.com/en-us/enterprise/trend-micro-xdr-help/Home) about the deployment of a development environment and how to start.
